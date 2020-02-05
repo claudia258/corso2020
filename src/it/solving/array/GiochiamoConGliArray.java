@@ -17,7 +17,7 @@ public class GiochiamoConGliArray{
 		
 		System.out.println(prodottoScalare);
 		if(GiochiamoConGliArray.verificaMaggioreSuccessivo(numeri3))
-		System.out.println("L'array è ordinato in maniera decrescente");
+		System.out.println("L'array è stato ordinato in maniera decrescente");
 		System.out.println(Arrays.toString(aggiungiInCoda(numeri1, num)));
 		System.out.println(Arrays.toString(arrayUnito));
 		
